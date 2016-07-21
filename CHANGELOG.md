@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.1
+
+_2016-07-06_
+
+ * Removed preset `WORKDIR`
+
 ## 1.0.0
 
 _2016-07-04_
