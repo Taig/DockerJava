@@ -24,5 +24,3 @@ RUN         rm jdk-${JAVA_VERSION}u${JAVA_UPDATE}-linux-x64.tar.gz
 
 ENV         PATH $PATH:/root/jdk/bin
 ENV         JAVA_HOME /root/jdk/
-
-WORKDIR     /src/
