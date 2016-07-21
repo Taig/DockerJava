@@ -3,8 +3,8 @@ FROM        ubuntu:16.04
 MAINTAINER  Niklas Klein "mail@taig.io"
 
 ENV         JAVA_VERSION 8
-ENV         JAVA_UPDATE 91
-ENV         JAVA_BUILD 14
+ENV         JAVA_UPDATE 101
+ENV         JAVA_BUILD 13
 
 WORKDIR     /root/
 
