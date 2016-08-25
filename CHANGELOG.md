@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.4
+
+_2016-08-25_
+
+ * Upgrade to Java 1.8.0_102-b14
+ * Enforce UTF-8
+
 ## 1.0.3
 
 _2016-07-21_
