@@ -3,8 +3,8 @@ FROM        ubuntu:16.04
 MAINTAINER  Niklas Klein "mail@taig.io"
 
 ENV         JAVA_VERSION 8
-ENV         JAVA_UPDATE 101
-ENV         JAVA_BUILD 13
+ENV         JAVA_UPDATE 102
+ENV         JAVA_BUILD b14
 
 RUN         locale-gen en_US.UTF-8
 ENV         LANG en_US.UTF-8
