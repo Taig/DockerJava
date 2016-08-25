@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.5
+
+_2016-08-25_
+
+ * Fix corrupt Java download URL
+
 ## 1.0.4
 
 _2016-08-25_
