@@ -29,5 +29,3 @@ RUN         rm jdk-${JAVA_VERSION}u${JAVA_UPDATE}-linux-x64.tar.gz
 
 ENV         PATH $PATH:/root/jdk/bin
 ENV         JAVA_HOME /root/jdk/
-
-ENV         JAVA_TOOL_OPTIONS -Dfile.encoding=UTF8
