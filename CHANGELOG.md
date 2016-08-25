@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.6
+
+_2016-08-25_
+
+ * Remove Java environment variable options enforcing UTF-8, this should be obsolete as of 1.0.4
+
 ## 1.0.5
 
 _2016-08-25_
